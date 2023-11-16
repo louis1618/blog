@@ -4,8 +4,7 @@ title: 개인 사이트 모음
 subtitle: 여러 개인 포트폴리오
 author: louis1618
 categories: blog
-tags: blog jekyll
-pin: true
+tags: blog school proxy portfolio
 # image: assets/images/1.jpg
 featured: true
 hidden: false
