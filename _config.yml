@@ -70,10 +70,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://media.discordapp.net/attachments/1174726831824441361/1174726913210716210/favicon.png?ex=6568a4b1&is=65562fb1&hm=7a777c82f1d24675dd694585a99b1bd98aa7b0072782c22964602fb23114b6b3&=&width=901&height=901"
+img_cdn: "https://media.discordapp.net"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/attachments/1174726831824441361/1174726913210716210/favicon.png?ex=6568a4b1&is=65562fb1&hm=7a777c82f1d24675dd694585a99b1bd98aa7b0072782c22964602fb23114b6b3&=&width=901&height=901"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
