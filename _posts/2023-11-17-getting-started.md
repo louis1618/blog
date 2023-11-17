@@ -2,7 +2,7 @@
 title: Louis1618 Storage
 author: louis1618
 date: 2023-11-17 08:55:00
-categories: [Blogging, Tutorial]
+categories: [Blogging, Portfolio]
 tags: [site portfolio jekyll louis1618]
 pin: true
 img_path: '/posts/20180809'
